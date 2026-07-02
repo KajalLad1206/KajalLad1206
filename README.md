@@ -39,15 +39,6 @@ Software Engineer with 6+ years of experience combining full-stack PHP developme
 - 🔄 AWS Solutions Architect Associate (SAA-C03) — in progress
 - 📅 Certified Kubernetes Administrator (CKA) — planned
 
----
-
-### 📊 GitHub stats
-
-![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajalLad1206&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalLad1206&layout=compact&hide_border=true)
-
----
-
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kajal--lad-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kajal-lad-4b36a2a2/)
