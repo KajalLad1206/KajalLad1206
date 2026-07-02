@@ -1,6 +1,6 @@
 # Hi, I'm Kajal Lad 👋
 
-**PHP/Laravel Developer | DevOps - AWS · Kubernetes · Terraform · CI/CD **
+**PHP/Laravel Developer | DevOps - AWS · Kubernetes · Terraform · Docker · Jenkins · CI/CD · Scripting (Bash,Python) ·**
 
 Software Engineer with 6+ years of experience combining full-stack PHP development with cloud-native DevOps engineering. I build CI/CD pipelines, automate AWS infrastructure with Terraform, and deploy containerized applications on Kubernetes (EKS).
 
@@ -12,13 +12,13 @@ Software Engineer with 6+ years of experience combining full-stack PHP developme
 
 | Layer | Tools |
 |---|---|
+| **Backend** | PHP (Laravel, CodeIgniter), Python, Bash, MySQL |
+| **Frontend** | JavaScript, React |
 | **CI/CD** | Jenkins (Pipelines, Shared Libraries), GitHub Actions |
 | **Cloud** | AWS (EKS, EC2, VPC, IAM, S3, CloudWatch, ECR) |
 | **Containers** | Docker, Kubernetes, Helm |
 | **IaC** | Terraform |
 | **Monitoring** | Prometheus, Grafana |
-| **Backend** | PHP (Laravel, CodeIgniter), Python, Bash, MySQL |
-| **Frontend** | JavaScript, React |
 
 ---
 
