@@ -2,7 +2,7 @@
 
 **PHP/Laravel Developer | DevOps - AWS · Kubernetes · Terraform · Docker · Jenkins · CI/CD · Scripting (Bash,Python) ·**
 
-Software Engineer with 6+ years of experience combining full-stack PHP development with cloud-native DevOps engineering. I build CI/CD pipelines, automate AWS infrastructure with Terraform, and deploy containerized applications on Kubernetes (EKS).
+Software Engineer with 5+ years of experience combining full-stack PHP development with cloud-native DevOps engineering. I build CI/CD pipelines, automate AWS infrastructure with Terraform, and deploy containerized applications on Kubernetes (EKS).
 
 📍 Toronto, ON, Canada &nbsp;|&nbsp; 💼 Open to work &nbsp;
 
