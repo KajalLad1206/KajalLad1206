@@ -22,17 +22,6 @@ Software Engineer with 6+ years of experience combining full-stack PHP developme
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it shows |
-|---|---|
-| **[k8s-microservices-demo](https://github.com/KajalLad1206/k8s-microservices-demo)** | Microservices on AWS EKS with Helm, Jenkins CI/CD & Prometheus monitoring |
-| **[java-maven-app](https://github.com/KajalLad1206/java-maven-app)** | Full Jenkins pipeline — build → Docker → deploy to AWS EC2 |
-| **[jenkins-shared-library](https://github.com/KajalLad1206/jenkins-shared-library)** | Reusable Groovy library standardizing pipelines across projects |
-| **[devops-projects](https://github.com/KajalLad1206/devops-projects)** | Docker, Node.js & MongoDB containerization with AWS ECR |
-
----
-
 ### 📜 Certifications
 
 - ✅ DevOps Master Program — DevOps TechLab (2025)
