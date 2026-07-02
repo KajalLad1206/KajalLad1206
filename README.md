@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Kajal Lad 👋
 
-<!--
-**KajalLad1206/KajalLad1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PHP/Laravel Developer | DevOps - AWS · Kubernetes · Terraform · CI/CD **
 
-Here are some ideas to get you started:
+Software Engineer with 6+ years of experience combining full-stack PHP development with cloud-native DevOps engineering. I build CI/CD pipelines, automate AWS infrastructure with Terraform, and deploy containerized applications on Kubernetes (EKS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Toronto, ON, Canada &nbsp;|&nbsp; 💼 Open to work &nbsp;
+
+---
+
+### 🛠 Tech stack
+
+| Layer | Tools |
+|---|---|
+| **CI/CD** | Jenkins (Pipelines, Shared Libraries), GitHub Actions |
+| **Cloud** | AWS (EKS, EC2, VPC, IAM, S3, CloudWatch, ECR) |
+| **Containers** | Docker, Kubernetes, Helm |
+| **IaC** | Terraform |
+| **Monitoring** | Prometheus, Grafana |
+| **Backend** | PHP (Laravel, CodeIgniter), Python, Bash, MySQL |
+| **Frontend** | JavaScript, React |
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it shows |
+|---|---|
+| **[k8s-microservices-demo](https://github.com/KajalLad1206/k8s-microservices-demo)** | Microservices on AWS EKS with Helm, Jenkins CI/CD & Prometheus monitoring |
+| **[java-maven-app](https://github.com/KajalLad1206/java-maven-app)** | Full Jenkins pipeline — build → Docker → deploy to AWS EC2 |
+| **[jenkins-shared-library](https://github.com/KajalLad1206/jenkins-shared-library)** | Reusable Groovy library standardizing pipelines across projects |
+| **[devops-projects](https://github.com/KajalLad1206/devops-projects)** | Docker, Node.js & MongoDB containerization with AWS ECR |
+
+---
+
+### 📜 Certifications
+
+- ✅ DevOps Master Program — DevOps TechLab (2025)
+- 🔄 AWS Solutions Architect Associate (SAA-C03) — in progress
+- 📅 Certified Kubernetes Administrator (CKA) — planned
+
+---
+
+### 📊 GitHub stats
+
+![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KajalLad1206&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KajalLad1206&layout=compact&hide_border=true)
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kajal--lad-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/kajal-lad-4b36a2a2/)
+
