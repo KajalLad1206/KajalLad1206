@@ -26,7 +26,6 @@ Software Engineer with 5+ years of experience combining full-stack PHP developme
 
 - ✅ DevOps Master Program — DevOps TechLab (2025)
 - 🔄 AWS Solutions Architect Associate (SAA-C03) — in progress
-- 📅 Certified Kubernetes Administrator (CKA) — planned
 
 ### 📫 Let's connect
 
